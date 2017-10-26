@@ -23,3 +23,9 @@ public class Startup
      }
 }
 ```
+## Nuget Package
+```
+Install-Package BlackstarSolar.AspNetCore.Identity.PwnedPasswords  
+```
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
