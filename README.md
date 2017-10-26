@@ -29,3 +29,5 @@ Install-Package BlackstarSolar.AspNetCore.Identity.PwnedPasswords
 ```
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+## Build Status
+[![Build Status](https://www.myget.org/BuildSource/Badge/blackstarsolar-build?identifier=cac84494-a7e7-45c0-8d3a-f738d464d9c0)](https://www.myget.org/)
